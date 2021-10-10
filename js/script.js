@@ -6,8 +6,6 @@ let city;
 
 let yourCity;
 
-let captial = `Ты живешь в столице`;
-
 let sport;
 
 let mySport;
